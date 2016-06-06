@@ -1,0 +1,1 @@
+3D-PTV Group - A bug reported by Jimmy Kim from UIUC.- Issue: A calibrated 3D-PTV reconstructs more 3D points than detected 2D Points at large total band.
